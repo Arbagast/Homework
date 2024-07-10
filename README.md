@@ -14,3 +14,7 @@
 [Доработка программного кода в расширении](https://github.com/Arbagast/Homework/blob/main/example/program-code.md)
 
 [Добавление объектов метаданных в конфигурацию, стоящую на поддержке](https://github.com/Arbagast/Homework/blob/main/example/configuration-change.md)
+
+## GIT и EDT
+
+[Работа с коммитами и ветвлением](https://github.com/Arbagast/-EDT)
